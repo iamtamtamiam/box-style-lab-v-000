@@ -31,10 +31,12 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  border: 1px solid
 }
 
 .dubious {
   background-color: #dd4444;
+  border: 1px solid
 }
 
 .column {
@@ -45,7 +47,7 @@ h4 {
 .small {
   width: 100%;
   height: 100%;
-  border: 1px solid;
+  ;
 }
 
 .med {
